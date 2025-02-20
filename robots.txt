@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /index.html
+
+Sitemap: https://bangkanew1.github.io/newsubb/sitemaps.xml
